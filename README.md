@@ -2,6 +2,8 @@ zkui - Zookeeper UI Dashboard
 ====================
 A UI dashboard that allows CRUD operations on Zookeeper.
 
+Zookeeper图形化客户端
+
 Requirements
 ====================
 Requires Java 7 to run.
